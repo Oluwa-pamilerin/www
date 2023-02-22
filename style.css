@@ -19,7 +19,10 @@ margin: 0 auto;
   color: #66BFBF;
   line-height: 1;
 }
-
+.items {
+      text-align: left;
+    padding-left: 20px;
+}
 h2 {
   height: auto;
   font-family: Montserrat;
@@ -191,6 +194,7 @@ padding-left: 50px;
 .copyright{
 font-family:serif;
 padding-top: 30px;
+font-size: small;
 }
 .btn {
   background: #11cdd4;
@@ -217,4 +221,7 @@ padding-top: 30px;
   background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
   background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
   text-decoration: none;}
-
+.socials{
+  text-align:left;
+  font-size:30px;
+}
