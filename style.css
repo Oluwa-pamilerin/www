@@ -175,9 +175,9 @@ float: right;
 }
 
 .contactme {
-  height: 400px;
+  text-align: centre;
   width: auto;
-  padding-top:10px;;
+  padding-top:30px;
   background-color: #E4F9F5;
   position: relative;
   top: 200px;
